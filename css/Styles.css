@@ -1,0 +1,42 @@
+body{
+    background: rgba(27, 27, 27, 0.534);
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+
+img{
+    width: 40%;
+    border-radius: 5%;
+}
+.Encabezado{
+    width: 98%;
+    height: 80px;
+    background: rgba(227, 198, 238, 0.80);
+    padding: 1%;
+    margin-bottom: 2%;
+    border-radius: 5%;
+    box-shadow: 2px 2px 5px rgb(99, 98, 98);
+}
+a{
+    color: rgb(139, 0, 109);
+   font-weight: lighter; 
+}
+li{
+    color: darkmagenta;
+    font-weight: bold;
+}
+.colorear :hover{
+    background-color: rgb(255, 163, 127);
+}
+
+.SColor{ color: green;}
+.STamanoMn{ font-size: 5px;}
+.SFondo{  background-color: rgba(139, 0, 0, 0.445)}
+.STachado{ text-decoration: line-through;}
+.SFuente{ font-family: cursive;}
+.STamanoMx{ font-size: 100px;}
+.SBorde{ border: 3px solid; }
+.SMargen{ margin: 20px;}
+.STransicion{ float: right;}
